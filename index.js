@@ -7,5 +7,3 @@ function happyHolidaysTo(name) {
   console.log("Happy holidays,")
   return 
 }
-
-happyHolidaysTo(you)
