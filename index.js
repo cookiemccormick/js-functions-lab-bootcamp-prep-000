@@ -7,4 +7,4 @@ function happyHolidaysTo(greeting, name) {
   console.log('${greeting}, ${name}!')
 }
 
-happyHolidaysTo("Happy holidays,"
+happyHolidaysTo("Happy holidays,", "you")
